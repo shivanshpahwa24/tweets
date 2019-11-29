@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}.app{min-height:100vh;background:#388abd}.app,.tweet{display:flex;justify-content:space-around;align-items:center}.tweet{padding:20px;margin:20px;background:#fff;flex-direction:column;border-radius:20px;font-size:20px;border:2px solid #000;height:300px;width:300px}.newtweet,.tweet{font-family:sans-serif}.newtweet{padding:1rem;border-radius:10px;color:#0d78bb;margin-top:400px;font-weight:700}.delete{display:flex;align-self:center;justify-items:space-around}
+/*# sourceMappingURL=main.230c7bd4.chunk.css.map */
